@@ -1,10 +1,10 @@
 # Local .terraform directories
 **/.terraform/*
-az.tfvars
+#az.tfvars
 # .tfstate files
 *.tfstate
 *.tfstate.*
-backend.tf
+#backend.tf
 # Crash log files
 crash.log
 
